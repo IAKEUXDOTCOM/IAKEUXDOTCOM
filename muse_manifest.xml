@@ -1,0 +1,380 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="iakeux.com" resolutions="1x,2x" timestamp="1554611001696">
+  <folder name="css">
+    <file name="site_global.css" crc="514072607"/>
+    <file name="xuekai.css" crc="4210606283" ref="xuekai"/>
+    <file name="index.css" crc="4074586852" ref="index"/>
+    <file name="projects.css" crc="4170603350" ref="projects"/>
+    <file name="graphics.css" crc="497738174" ref="graphics"/>
+    <file name="installations.css" crc="3988096083" ref="installations"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:graphics:xuekai:installations:projects"/>
+    <file name="museutils.js" crc="4216313831" ref="index:graphics:xuekai:installations:projects"/>
+    <file name="whatinput.js" crc="86476730" ref="index:graphics:xuekai:installations:projects"/>
+    <file name="museconfig.js" crc="474374037" ref="index:graphics:xuekai:installations:projects"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:graphics:xuekai:installations:projects"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:graphics:xuekai:installations:projects"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:graphics:xuekai:installations:projects"/>
+    <file name="require.js" crc="3951022091" ref="index:graphics:xuekai:installations:projects"/>
+    <file name="webpro.js" crc="4143865194" ref="installations"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="installations"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="installations"/>
+    <file name="touchswipe.js" crc="4200445185" ref="installations"/>
+  </folder>
+  <folder name="images">
+    <file name="iakeux-favicon.ico" crc="4160812636" ref="index"/>
+    <file name="iakeux 0.png" crc="3765052917" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iakeux 0_2x.png" crc="4221873615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="graphics-favicon.ico" crc="4160812636" ref="graphics"/>
+    <file name="iakeux 63.png" crc="90954318" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 63_2x.png" crc="3874260973" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 5.jpg" crc="3944429289" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 5_2x.jpg" crc="319359399" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 9.jpg" crc="3787772961" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 9_2x.jpg" crc="3858252276" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 10.jpg" crc="3859139301" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 10_2x.jpg" crc="3959510007" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 6.jpg" crc="454023826" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 6_2x.jpg" crc="4184898797" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 7.jpg" crc="3795386894" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 7_2x.jpg" crc="386648138" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 8.jpg" crc="4132043540" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 8_2x.jpg" crc="143379377" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 73.jpg" crc="428334693" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 73_2x.jpg" crc="4174523403" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 12.jpg" crc="179739763" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 12_2x.jpg" crc="58076250" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 76.jpg" crc="3912917948" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 76_2x.jpg" crc="384799140" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 77.jpg" crc="503495154" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 77_2x.jpg" crc="28110706" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 74.jpg" crc="83126559" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 74_2x.jpg" crc="303925002" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 75.jpg" crc="3918152447" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 75_2x.jpg" crc="4119309352" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 11.png" crc="4052345153" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="iakeux 11_2x.png" crc="4168623663" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="xuekai-favicon.ico" crc="4160812636" ref="xuekai"/>
+    <file name="iakeux 64.png" crc="4083524827" seo="true" ref="xuekai">
+      <caption webpage="xuekai" alt=""/>
+    </file>
+    <file name="iakeux 64_2x.png" crc="4185474941" seo="true" ref="xuekai">
+      <caption webpage="xuekai" alt=""/>
+    </file>
+    <file name="installations-favicon.ico" crc="4160812636" ref="installations"/>
+    <file name="iakeux 65.png" crc="151563918" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 65_2x.png" crc="259345871" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 26.jpg" crc="186720417" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 26_2x.jpg" crc="3979196327" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 27.jpg" crc="151460645" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 27_2x.jpg" crc="3973337468" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="installations"/>
+    <file name="iakeux 28.jpg" crc="3939397422" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 28_2x.jpg" crc="4180479843" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 29.jpg" crc="12860132" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 29_2x.jpg" crc="4039662378" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 31.jpg" crc="84168669" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 31_2x.jpg" crc="4017571694" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="installations"/>
+    <file name="iakeux 33.jpg" crc="4043985867" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 33_2x.jpg" crc="3987721159" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 30.jpg" crc="4084270721" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 30_2x.jpg" crc="4004630937" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 32.jpg" crc="3989093059" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 32_2x.jpg" crc="243844484" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 34.jpg" crc="92742729" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 34_2x.jpg" crc="4094012297" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 35.jpg" crc="4003450787" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 35_2x.jpg" crc="502328148" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 36.jpg" crc="4211419575" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 36_2x.jpg" crc="519233815" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 38.jpg" crc="4175404763" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 38_2x.jpg" crc="387605407" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 39.jpg" crc="395741214" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 39_2x.jpg" crc="4089054123" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 37.jpg" crc="3912233135" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 37_2x.jpg" crc="151330616" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 40.jpg" crc="3798985948" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 40_2x.jpg" crc="103686328" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 41.jpg" crc="3812000091" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 41_2x.jpg" crc="3857306643" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 42.jpg" crc="133971631" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 42_2x.jpg" crc="159628490" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 43.jpg" crc="3854505256" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 43_2x.jpg" crc="251270350" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 50.jpg" crc="158665357" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 50_2x.jpg" crc="3802768873" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 44.jpg" crc="313688306" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 44_2x.jpg" crc="3847159942" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 48.jpg" crc="133280211" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 48_2x.jpg" crc="3942517882" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 51.jpg" crc="456900245" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 51_2x.jpg" crc="487207489" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 46.jpg" crc="4091454466" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 46_2x.jpg" crc="3943717473" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 45.jpg" crc="4168935145" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 45_2x.jpg" crc="389363339" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 47.jpg" crc="519499258" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 47_2x.jpg" crc="4037172472" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 49.jpg" crc="4170135734" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 49_2x.jpg" crc="442016137" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 52.jpg" crc="311257642" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 52_2x.jpg" crc="428778930" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 53.jpg" crc="3839375183" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="iakeux 53_2x.jpg" crc="4025003042" seo="true" ref="installations">
+      <caption webpage="installations" alt=""/>
+    </file>
+    <file name="projects-favicon.ico" crc="4160812636" ref="projects"/>
+    <file name="iakeux 66.png" crc="3931557999" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 66_2x.png" crc="495221906" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 67.png" crc="4279719420" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 67_2x.png" crc="426463824" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 68.png" crc="334404153" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 68_2x.png" crc="4257426045" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 69.png" crc="3984441949" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 69_2x.png" crc="3808629833" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 70.png" crc="4028791596" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 70_2x.png" crc="516783088" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 71.png" crc="357278590" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 71_2x.png" crc="3787324383" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 59.jpg" crc="467240745" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 59_2x.jpg" crc="75132860" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 72.png" crc="431552482" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 72_2x.png" crc="3772704379" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 60.jpg" crc="243667815" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 60_2x.jpg" crc="3970922362" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 24.jpg" crc="4018645225" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 24_2x.jpg" crc="4230018296" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 22.jpg" crc="478457610" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 22_2x.jpg" crc="3927927825" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 25.jpg" crc="4099589839" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+    <file name="iakeux 25_2x.jpg" crc="415782911" seo="true" ref="projects">
+      <caption webpage="projects" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="41657153" seo="true" mt="1553902999226" redirect="true"/>
+  <file name="graphics.html" crc="314681707" seo="true" mt="1554607314378" redirect="true"/>
+  <file name="xuekai.html" crc="4153194926" seo="true" mt="1554083980564" redirect="true"/>
+  <file name="installations.html" crc="26861467" seo="true" mt="1554083917986" redirect="true"/>
+  <file name="projects.html" crc="393591597" seo="true" mt="1554134884209" redirect="true"/>
+</manifest>
